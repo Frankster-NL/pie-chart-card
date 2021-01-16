@@ -1,5 +1,5 @@
-import "https://unpkg.com/chart.js@2.7.1/dist/Chart.bundle.min.js?module";
-import "https://cdn.jsdelivr.net/npm/chartjs-plugin-colorschemes";
+import "./chart.js";
+import "./chartjs-plugin-colorschemes";
 
 class PowerUsageCard extends HTMLElement {
   constructor() {
