@@ -1,5 +1,6 @@
 import "chart.js";
 import "chartjs-plugin-colorschemes";
+import * as name from "chartjs-plugin-colorschemes";
 
 class PowerUsageCard extends HTMLElement {
   constructor() {
