@@ -1,5 +1,6 @@
 import "https://unpkg.com/chart.js@v2.9.3/dist/Chart.bundle.min.js?module";
 import "https://cdn.jsdelivr.net/npm/chartjs-plugin-colorschemes";
+import * as name from "chartjs-plugin-colorschemes";
 
 console.info(
   `%cPIE-CHART-CARD\n%cVersion: 0.0.1`,
