@@ -1,8 +1,8 @@
-import "https://unpkg.com/chart.js@v2.9.3/dist/Chart.bundle.min.js?module";
-import "https://cdn.jsdelivr.net/npm/chartjs-plugin-colorschemes";
+import "./chart.js";
+import "./chartjs-plugin-colorschemes";
 
 console.info(
-  `%cPIE-CHART-CARD\n%cVersion: 0.0.2`,
+  `%cPIE-CHART-CARD\n%cVersion: 0.0.3`,
   "color: white; background: olive; font-weight: bold;",
   "color: olive; background: white; font-weight: bold;",
   ""
